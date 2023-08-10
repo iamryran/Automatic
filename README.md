@@ -1,2 +1,2 @@
 # Automatic
-590mPull 
+60 Pull 
