@@ -1,2 +1,2 @@
 # Automatic
-60 Pull 
+610Pull 
